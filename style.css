@@ -43,6 +43,7 @@ body {
   background: #333;
   border: 2px dashed #fff;
 }
+
 @media (max-width: 320px) {
   html {
     font-size: 40%;
@@ -52,6 +53,7 @@ body {
     gap: 1rem;
   }
 }
+
 @media (min-width: 321px) and (max-width: 1024px) {
   html {
     font-size: 55%;
